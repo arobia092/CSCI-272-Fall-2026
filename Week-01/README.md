@@ -1,3 +1,6 @@
+[1-Factorial.cpp](https://github.com/user-attachments/files/32115856/1-Factorial.cpp)
+
+
 # Week 1
 
 This folder contains my Week 1 C++ practice work.
